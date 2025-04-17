@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+}
+.number {
+  position: relative;
+  width: min-content;
+}
+
+.number-container {
+  position: relative;
+  overflow-y: hidden;
+  height: 640px;
+  border: 4px solid #dd2d4a;
+}
