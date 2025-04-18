@@ -1,4 +1,6 @@
 .number-image {
   height: 640px;
   width: auto;
+  display:flex;
+  flex-direction: column;
 }

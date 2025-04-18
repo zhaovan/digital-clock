@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 
-const IMAGE_HEIGHT = 646;
+const IMAGE_HEIGHT = 640;
 
 import "./App.css";
 import Number from "./components/Number";
